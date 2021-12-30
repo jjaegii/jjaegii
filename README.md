@@ -11,4 +11,4 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div>
 
-[![https://solved.ac/profile/hn06038](http://mazassumnida.wtf/api/v2/generate_badge?boj=hn06038)](https://solved.ac/profile/hn06038)
+# [![https://solved.ac/profile/hn06038](http://mazassumnida.wtf/api/v2/generate_badge?boj=hn06038)](https://solved.ac/profile/hn06038)
