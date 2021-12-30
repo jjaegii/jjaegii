@@ -5,4 +5,4 @@
 [![https://solved.ac/profile/hn06038](http://mazassumnida.wtf/api/v2/generate_badge?boj=hn06038)](https://solved.ac/profile/hn06038)
 
 # Tech Stacks
-<img src="https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=#A8B9CC&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
