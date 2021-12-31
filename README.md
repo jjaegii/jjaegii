@@ -14,4 +14,4 @@
 
 
 ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white) https:/blog.naver.com/hn06038
-[![https://solved.ac/profile/hn06038](http://mazassumnida.wtf/api/v2/generate_badge?boj=hn06038)](https://solved.ac/profile/hn06038)
+# [![https://solved.ac/profile/hn06038](http://mazassumnida.wtf/api/v2/generate_badge?boj=hn06038)](https://solved.ac/profile/hn06038)
