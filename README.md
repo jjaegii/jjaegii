@@ -20,7 +20,6 @@
   <h1>😋Me😋</h1>
   
 [![Tistory Badge](https://img.shields.io/badge/blog-FFFFFF?style=flat-square&logo=tistory&logoColor=black&link=https://jjaegii.tistory.com/)](https://jjaegii.tistory.com/)
-[![Tistory Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jjaegii)](https://www.instagram.com/jjaegii)
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jjaegii)](https://www.instagram.com/jjaegii)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hn06038@gmail.com)](mailto:hn06038@gmail.com)
 
