@@ -27,7 +27,7 @@
   <div></div>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   
-  <h1>😋Me😋</h1>
+  <h1>😋My😋</h1>
   
 [![Tistory Badge](https://img.shields.io/badge/blog-FFFFFF?style=flat-square&logo=tistory&logoColor=black&link=https://jjaegii.tistory.com/)](https://jjaegii.tistory.com/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jjaegii)](https://www.instagram.com/jjaegii)
