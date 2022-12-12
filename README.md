@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=black"> 
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black">
   <img src="https://img.shields.io/badge/yolo-00FFFF?style=for-the-badge&logo=yolo&logoColor=black">
-  <img src="https://img.shields.io/badge/AWS-#232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=black"> 
+  <img src="https://img.shields.io/badge/AWS-#232F3E?style=for-the-badge&logo=Amazon_AWS&logoColor=black"> 
   
   <h1>😋Me😋</h1>
   
