@@ -15,6 +15,3 @@
 [![Tistory Badge](https://img.shields.io/badge/blog-FFFFFF?style=flat-square&logo=tistory&logoColor=black&link=https://jjaegii.tistory.com/)](https://jjaegii.tistory.com/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jjaegii)](https://www.instagram.com/jjaegii)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hn06038@gmail.com)](mailto:hn06038@gmail.com)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjaegii)](https://github.com/jjaegii/github-readme-stats)
-</div>
