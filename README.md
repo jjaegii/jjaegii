@@ -1,15 +1,33 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F8D46&height=300&section=header&text=😲jjaegii😲&fontSize=90&fontColor=FFFFFF" />
 
-<h1>💡Tech Stack💡<h1>
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black"> 
+major computer science engineering in yeungnam univ.
+
+Contributor of [mikel-brostrom/yolov8_tracking](https://github.com/mikel-brostrom/yolov8_tracking)
+
+<h1></h1>
+<h1>💡Tech Stack💡</h1>
+
+[![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+[![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+
   <div></div>
-  
+
+[![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=black)](https://www.djangoproject.com/)
+[![YOLOv5](https://img.shields.io/badge/yolov5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://github.com/ultralytics/yolov5)
+[![Nodejs Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+  <div></div>
+
+[![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+
+<h1></h1>
+  <h1>📖Studying📖</h1>
+
+[![Gitlab](https://img.shields.io/badge/gitlab_ci/cd-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=black)](https://azure.microsoft.com/)
+
+<h1></h1>
   <h1>😋My😋</h1>
   
 [![Tistory Badge](https://img.shields.io/badge/blog-FFFFFF?style=flat-square&logo=tistory&logoColor=black&link=https://jjaegii.tistory.com/)](https://jjaegii.tistory.com/)
