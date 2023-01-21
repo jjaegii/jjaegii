@@ -19,7 +19,7 @@ Contributor of [mikel-brostrom/yolov8_tracking](https://github.com/mikel-brostro
 
   <div></div>
 
-[![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 <h1></h1>
   <h1>📖Studying📖</h1>
