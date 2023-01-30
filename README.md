@@ -3,8 +3,6 @@
 
 major computer science engineering in yeungnam univ.
 
-Contributor of [mikel-brostrom/yolov8_tracking](https://github.com/mikel-brostrom/yolov8_tracking)
-
 <h1></h1>
 <h1>💡Tech Stack💡</h1>
 
