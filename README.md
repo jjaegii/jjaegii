@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F8D46&height=300&section=header&text=😲jjaegii😲&fontSize=90&fontColor=FFFFFF" />
 
-major computer science engineering in yeungnam univ.
+major in computer science engineering at yeungnam univ.
 
 <h1></h1>
 <h1>💡Tech Stack💡</h1>
