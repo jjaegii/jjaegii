@@ -11,7 +11,8 @@ major in computer science engineering at yeungnam univ.
 
   <div></div>
 
-[![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=black)](https://www.djangoproject.com/)
+[![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://www.djangoproject.com/)
 [![YOLOv5](https://img.shields.io/badge/yolov5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://github.com/ultralytics/yolov5)
 [![Nodejs Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
