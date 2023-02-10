@@ -6,7 +6,7 @@ major in computer science engineering at yeungnam univ.
 <h1></h1>
 <h1>💡Tech Stack💡</h1>
 
-[![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+[![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
   <div></div>
@@ -23,9 +23,10 @@ major in computer science engineering at yeungnam univ.
 <h1></h1>
   <h1>📖Studying📖</h1>
 
-[![Gitlab](https://img.shields.io/badge/gitlab_ci/cd-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black)](https://about.gitlab.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=black)](https://azure.microsoft.com/)
-
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://azure.microsoft.com/)
+[![Gitlab CI/CD](https://img.shields.io/badge/gitlab_ci/cd-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+  
 <h1></h1>
   <h1>😋My😋</h1>
   
