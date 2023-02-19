@@ -35,3 +35,4 @@ major in computer science engineering at yeungnam univ.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hn06038@gmail.com)](mailto:hn06038@gmail.com)
   
 [![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/77189999/219874687-4288c5fc-56f2-4063-82a3-786083fa685a.png)](https://www.credly.com/badges/c182e4e0-ea7a-4fa6-8795-b9beead560d6/public_url)
+[![microsoft-certified-azure-ai-fundamentals](https://user-images.githubusercontent.com/77189999/219979491-d32d646b-4b9f-4741-8b2a-ce743d388852.png)](https://www.credly.com/badges/265f3ff6-bea8-41f3-af22-f56246d912e0/public_url)
