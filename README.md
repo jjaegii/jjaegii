@@ -8,6 +8,7 @@ major in computer science engineering at yeungnam univ.
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://www.djangoproject.com/)
 [![YOLOv5](https://img.shields.io/badge/yolov5-00FFFF?style=flat-square&logo=yolo&logoColor=black)](https://github.com/ultralytics/yolov5)
 [![Nodejs Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 <h3>Studying</h3>
@@ -15,6 +16,8 @@ major in computer science engineering at yeungnam univ.
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Gitlab CI/CD](https://img.shields.io/badge/gitlab_ci/cd-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://azure.microsoft.com/)
+[![K8S](https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/ko/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
 <h3>My</h3>
   
