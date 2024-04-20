@@ -1,5 +1,3 @@
-major in computer science engineering at yeungnam univ.
-
 <h3>Tech Stack</h3>
 
 [![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
