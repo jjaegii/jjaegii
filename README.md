@@ -12,10 +12,11 @@
 <h3>Studying</h3>
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Gitlab CI/CD](https://img.shields.io/badge/gitlab_ci/cd-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://azure.microsoft.com/)
 [![K8S](https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/ko/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)](https://www.ibm.com/kr-ko/cloud)
+[![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-BE95FF?style=flat-square&logo=ibmwatson&logoColor=white)](https://www.ibm.com/kr-ko/watsonx)
 
 <h3>My</h3>
   
